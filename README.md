@@ -1,6 +1,6 @@
 <h1>React Ice Cream App</h1>
 
-<p>ice cream app</p>
+<p>This project is an ice cream ordering application developed with React. Users can choose ice cream flavors, add toppings, and place their orders after accepting the terms.</p>
 
 <h2>Used Technologies</h2>
 
@@ -16,4 +16,4 @@
 
 <h1>Screen Gif</h1>
 
-<img src="/ice-cream/public/icecreamapp.gif" />
+<img src="./public/icecreamapp.gif">
